@@ -1,0 +1,169 @@
+## YJ Oauth官网
+YJ Oauth是一个中转站，可以跳转到YJ Team的其他所有分站以及附属站、友站。
+
+公告里都有这个链接，帮助你随时从 A 平台跳转到 B 平台。
+
+### 发展历程 / Our growth
+> - 2026-10-24 成立**NLNOJ Team**。
+> - 2026-11-07 启用**ACGO Team**。
+> - 2026-10-25 关闭**LMTOJ Team**。
+> - 2026-10-25 启用**Hydro Domain**。
+> - 2026-10-24 成立**CodeForces Team**。
+> - 2026-09-18 改名为「**YJ Team**」。
+> - 2026-09-01 启用**数据采集**。
+> - 2026-08-31 关闭**Hydro Domain**。
+> - 2026-08-30 成立**YJ Oauth**。
+> - 2026-08-28 成立**LMTOJ Team**。
+> - 2026-08-27 结束**数据采集试验**。
+> - 2026-08-10 成立**研究OJ Website**。
+> - 2026-07-28 成立**Hydro Domain**。
+> - 2026-05-31 关闭**ACGO Team**。
+> - 2026-05-22 开始**数据采集试验**。
+> - 2025-12-28 成立**Problem Team**，定名为「**YJOI**」。
+> - 2025-08-03 成立**ACGO Team**。
+> - 2025-07-28 成立**洛谷 Team**。
+> - 2025-07-28 成立**网站**，定名为「**C++研究队**」。
+
+### 推荐网站 / Recommend
+> - [**Github**](https://github.com/)
+> - **数学**
+>   - [**掷硬币模拟**](https://appstate-math.github.io/interactivate/activities/Coin/)
+>   - [**转盘+骰子模拟**](https://appstate-math.github.io/interactivate/activities/ExpProbability/)
+>   - [**极值竞技场**](https://minmaxarena.com/)
+>   - [**Desmos**](https://www.desmos.com/)
+>     - [**Desmos 2D**](https://www.desmos.com/2d/)
+>     - [**Desmos 3D**](https://www.desmos.com/3d/)
+>     - [**Desmos Geometry**](https://www.desmos.com/geometry/)
+>     - [**Desmos NoteBook**](https://www.desmos.com/notebook/)
+>   - [**Geogebra**](https://www.geogebra.org/)
+>     - [**Geogebra 数学知识**](https://www.geogebra.org/t/math/)
+>     - [**Geogebra 计算器**](https://www.geogebra.org/calculator/)
+>     - [**Geogebra 2D**](https://www.geogebra.org/graphing/)
+>     - [**Geogebra Geometry**](https://www.geogebra.org/geometry/)
+>     - [**Geogebra NoteBook**](https://www.geogebra.org/notes/)
+> - **信奥**
+>   - [**IOI官网**](https://ioinformatics.org/)
+>   - [**OI-wiki**](https://oi-wiki.org/)
+>   - [**OIerDB**](https://oier.baoshuo.dev/)
+>   - [**CP OAuth**](https://www.cpoauth.com/)
+>   - [**图编辑器**](https://csacademy.com/app/graph_editor/)
+>   - [**排序游乐场**](https://sort.umasort.top/)
+>   - [**洛谷**](https://www.luogu.com.cn/)
+>   - [**ACGO**](https://www.acgo.cn/)
+>   - [**上海市计算机学会竞赛平台（YACS）**](https://iai.sh.cn/)
+>   - [**Universal Online Judge（UOJ）**](https://uoj.ac/)
+>   - [**CodeForces（CF）**](https://codeforces.com/)
+>   - [**AtCoder（AT）**](https://atcoder.jp/)
+
+### 计划 / Plan
+> |比赛|类型|状态|总结|数据|
+> |---|---|---|---|---|
+> |[**「YJOI」 Round 1**]()|洛谷公开赛|筹办中|[R1总结帖]()|[R1数据帖]()|
+
+### 比赛 / Contest
+> ```text
+> 知周所众，一张头图需要一场比赛。
+> 
+> 【头图位置】
+> 
+> ## 介绍 / Introduction【必选】
+> 这里是[「YJ Team」](https://cppoj.xjstech.cn)带来的第 X 场**赛，希望大家玩得开心！
+> 
+> 本场比赛举行时间为 (YYYY) 年 (MM) 月 (DD) 日 (08/09/10/12/14/15/16/18/19/20/22):(00/15/30/45) 至 (YYYY) 年 MM 月 DD 日 (08/09/10/12/14/15/16/18/19/20/22):(00/15/30/45)。比赛采用 (OI/IOI/ICPC/CodeForces) 赛制，选手需要在 (XXX) 小时内完成 (X) 道题目。难度大致在 $\tt{(XXX)}$ 至 $\tt{(XXX)}$ 之间 ，(按照/不按照)**主观难度**升序排列。
+> 
+> 本场比赛工作人员（排名不分先后）：
+> 
+> - 负责人：XXX。
+> - 出题人：XXX、XXX、…。
+> - 验题人：XXX、XXX、…。
+> - 审核员：XXX、XXX。
+> 
+> ## 题目 / Problems【必选】
+> 
+> |题号|题目名|Idea|出题人|验题人|数据|题解|分值|
+> |---|---|---|---|---|---|---|---|
+> |A||||||[link]()||
+> |B||||||[link]()||
+> |C||||||[link]()||
+> |D||||||[link]()||
+> |E||||||[link]()||
+> ......（如果还有继续往下写，一场本网站的任何比赛题目数在3-26之间）
+> 
+> ## 奖励 / Prizes【可选】
+> - **警告**：作弊者的奖励**直接取消并不顺延**。
+> - **Tips**：奖励请**以赛后总结帖为准**。
+> - ****：。
+> - ****：。
+> - ****：。
+> - ****：。
+> ...（如果还有继续往下写）
+> 
+> ## 广告 / Advertisements【可选】
+> ### 赞助商简介【可选】
+> 本比赛由XXX赞助，欢迎报名参加其课程，具体咨询XXX。
+> ### 出题组简介【可选】
+> 本比赛由XXX出题，欢迎加入[出题组](url)。
+> ```
+
+### 管理员名单 / Admin List
+> 温馨提示：越往上代表权限越高。由于非管理用户太多，统一缩写。
+> 
+> |权限|职位|用户名|联系方式|实名状态|
+> |---|---|---|---|---|
+> |root|站长|WeiChenrui|[联系方式](https://cppoj.xjstech.cn/blog/3/6af01569733ba5a3e4d0c986)|身份证实名|
+> |manager|大管理|jcx106|yanjiu.user.5|身份证实名|
+> |admin|管理员|Yinuo140210|yanjiu.user.6|暂未实名|
+> |developer|开发者|Nexus_gzh|yanjiu.user.2|奖项实名|
+> |admin|管理员|LittleLittleChen|yanjiu.user.11|身份证实名|
+> |admin|管理员|wjj001399|luogu.user.1811846|暂未实名|
+> |admin|管理员|wcqk|yanjiu.user.9|奖项实名|
+> |admin|管理员|Nullptr_qwq|yanjiu.user.17|暂未实名|
+> |problemadmin|题目管理员|xhabc66|luogu.user.718740|奖项实名|
+> |problemadmin|题目管理员|Li2021|luogu.user.517643|奖项实名|
+> |problemadmin|题目管理员|Ash_ed|luogu.user.1610323|暂未实名|
+> |problemadmin|题目管理员|lijuncong|luogu.user.1087131|奖项实名|
+
+### 权限名单 / Permission List
+
+> |name|chinesename|nowmember/maxmember|
+> |---|---|---|
+> |root|站长|1 / 1|
+> |manager|大管理|1 / 3|
+> |developer|开发者|1 / 5|
+> |admin|管理员|5 / 20|
+> |problemadmin|题目管理员|4 / 50|
+> |contestadmin|比赛管理员|0 / 50|
+> |blogadmin|专栏管理员|0 / 60|
+> |teamadmin|团队/域管理员|0 / 75|
+> |discussadmin|讨论管理员|0 / 100|
+> |chatadmin|消息管理员|0 / 100|
+> |default|普通用户|$\approx$ 100 / $+\infty$|
+> |blocktalk|禁言者|$\approx$ 0 / $+\infty$|
+> |blockcontest|禁赛者|$\approx$ 0 / $+\infty$|
+> |blockuser|封禁用户|$\approx$ 5 / $+\infty$|
+> |guest|游客|Unknown / $+\infty$|
+> 
+> |权限|站长|大管理|开发者|管理员|题目管理员|比赛管理员|专栏管理员|团队/域管理员|讨论管理员|消息管理员|普通用户|禁言者|禁赛者|封禁用户|游客|
+> |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+> |查看网站|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|N|Y|
+> |注册或登录|Y|Y|Y|N|N|N|N|N|N|N|N|N|N|N|Y|
+> |退出登录|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|N|
+> 
+> ...（未完待续）
+
+### 难度对标表 / Difficulty Benchmark Table
+> |YJ Team难度|洛谷难度|ACGO难度|Hydro难度|
+> |---|---|---|---|
+> |$\tt{Easy}$|$\color{#FE4C61}\mathbf{入门}$|$\color{#FE4C61}\mathbf{入门}$|$1$|
+> |$\tt{Easy}$|$\color{#FE4C61}\mathbf{入门}$|$\color{#FE4C61}\mathbf{入门}$|$2$|
+> |$\tt{Normal}$|$\color{#F39C11}\mathbf{普及-}$|$\color{#F39C11}\mathbf{普及-}$|$3$|
+> |$\tt{Normal}$|$\color{#F39C11}\mathbf{普及-}$|$\color{#F39C11}\mathbf{普及-}$|$4$|
+> |$\tt{Normal}$|$\color{#FFC116}\mathbf{普及}$|$\color{#FFC116}\mathbf{普及/提高-}$|$5$|
+> |$\tt{Normal}$|$\color{#FFC116}\mathbf{普及}$|$\color{#FFC116}\mathbf{普及/提高-}$|$6$|
+> |$\tt{Middle}$|$\color{#53C41A}\mathbf{普及+/提高-}$|$\color{#53C41A}\mathbf{普及+/提高}$|$7$|
+> |$\tt{Middle}$|$\color{#13C2C2}\mathbf{提高}$|$\color{#3498DB}\mathbf{提高+/省选-}$|$8$|
+> |$\tt{Hard}$|$\color{#3498DB}\mathbf{提高+/省选-}$|$\color{#3498DB}\mathbf{提高+/省选-}$|$9$|
+> |$\tt{Hard}$|$\color{#3498DB}\mathbf{提高+/省选-}$|$\color{#3498DB}\mathbf{提高+/省选-}$|$10$|
+> |$\tt{Hard}$|$\color{#9C3DCF}\mathbf{省选/NOI-}$|$\color{#9C3DCF}\mathbf{省选/NOI-}$|$10$|
+> |$\tt{Lunatic}$|$\color{#0E1D69}\mathbf{NOI/NOI+/CTS}$|$\color{#0E1D69}\mathbf{NOI/NOI+/CTSC}$|$10$|
+> |$\tt{Unrated}$|$\color{Grey}\mathbf{暂无评定}$|$\color{Grey}\mathbf{暂未评定}$|/|
