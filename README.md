@@ -11,7 +11,7 @@
 > - 网站目前状态：正常运行
 > - 站长： [ $\texttt{\color{red}W\color{orange}e\color{yellow}i\color{lightgreen}C\color{green}h\color{cyan}e\color{lightblue}n\color{blue}r\color{purple}u\color{black}i}$ ](https://cppoj.xjstech.cn/blog/3/6af01569733ba5a3e4d0c986)
 > - 大管理： $\texttt{\color{purple}{jcx106}}$
-> - 开发者： $\texttt{\color{purple}{Nexus_gzh}}$
+> - 开发者： $\texttt{\color{purple}{Nexus \_ gzh}}$
 > ### 数据统计
 > - 说明：为服务器考虑，经试验过后，我们的**网站访问量**（即后两项）采用根据其他准确数据计算的手段。
 > - 网站已运行 **$488$** 天。
