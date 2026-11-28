@@ -3,15 +3,15 @@
 > 「YJ Team」
 > ```
 > ### 基础信息
-> - 网站名： $\texttt{YJ\ Team}$（浙江研究科技）
-> - $\texttt{OJ}$ 名： $\texttt{YJ\ Team\ Online\ Judge}$（简称 $\texttt{YJOJ}$）
-> - $\texttt{OI}$ 名： $\texttt{YJOI}$
-> - $\texttt{ICPC/CCPC}$ 名： $\texttt{YJCPC}$
-> - 网站目前坐标： $\texttt{e.cn.zj.sx}$
+> - 网站名：**YJ Team**（浙江研究科技）
+> - **OJ**名：**YJ Team Online Judge**（简称**YJOJ**）
+> - **OI**名：**YJOI**
+> - **ICPC/CCPC**名：**YJCPC**
+> - 网站目前坐标：**CNZJSX**
 > - 网站目前状态：正常运行
-> - 站长： [ $\texttt{\color{red}W\color{orange}e\color{yellow}i\color{lightgreen}C\color{green}h\color{cyan}e\color{lightblue}n\color{blue}r\color{purple}u\color{black}i}$ ](https://cppoj.xjstech.cn/blog/3/6af01569733ba5a3e4d0c986)
-> - 大管理： $\texttt{\color{purple}{jcx106}}$
-> - 开发者： $\texttt{\color{purple}{Nexus_gzh}}$
+> - 站长：[**WeiChenrui**](https://cppoj.xjstech.cn/blog/3/6af01569733ba5a3e4d0c986)
+> - 大管理：**jcx106**
+> - 开发者：**Nexus_gzh**
 > ### 数据统计
 > - 说明：为服务器考虑，经试验过后，我们的**网站访问量**（即后两项）采用根据其他准确数据计算的手段。
 > - 网站已运行 **$488$** 天。
